@@ -1,4 +1,4 @@
-# react-native-node-mongo-typescript-template
+# execci
 
 react native node mongo typescript template
 
